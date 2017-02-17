@@ -223,14 +223,3 @@
         }
     }
 })(jQuery);
-
-//============================== Count down triger =========================
-jQuery(document).ready(function() {
- $('#simple_timer').syotimer({
-        year: 2017,
-        month: 2,
-        day: 23,
-        hour: 0,
-        minute: 0,
-    });
-});
